@@ -1,4 +1,5 @@
 name: "CodeQL Advanced Security Scanning"
+# ghas-management-template-version: 1.0
 
 on:
 # Initial proposal is daily runs to avoid overloading runners, teams can uncomment below to enable on push and PR events
